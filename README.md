@@ -1,2 +1,1 @@
-# sicp_study
-Repo for exercises from SICP
+# My solutions for SICP in Scheme and TypeScript
